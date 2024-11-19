@@ -1,0 +1,1 @@
+# wpe-public-assets
